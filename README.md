@@ -6,3 +6,14 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 
 The data Martha will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. We have a few data visualizations below.
 
+![1.1](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%201.1.PNG) 
+
+![2.1](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%202.1.PNG) 
+
+![3.1](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%203.1.PNG) 
+
+![3.2](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%203.2.PNG) 
+
+![3.3](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%203.3.PNG) 
+
+![4.1](https://github.com/ScottyMacCVC/Cryptocurrencies/blob/main/Images/Deliverable%204.1.PNG) 
